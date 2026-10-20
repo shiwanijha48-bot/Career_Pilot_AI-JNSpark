@@ -5,6 +5,7 @@
 CareerPilot is an AI-powered career-planning agent that helps students, beginners, and job seekers understand the skills they need, create structured study plans, discover learning resources, and explore relevant GitHub projects.
 
 Built for the **Fetch-A-Thon 3.0 — ASI:One Agent Challenge**.
+----
 
 ##  Problem Statement
 
