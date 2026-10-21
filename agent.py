@@ -18,6 +18,8 @@ from uagents_core.contrib.protocols.chat import (
 
 from careerpilot.orchestrator import run_careerpilot
 
+
+
 # Optional seed: set CAREERPILOT_AGENT_SEED in your private .env to retain identity.
 # Without it, uAgents creates a local identity; use the Agentverse deployment flow
 # to configure the persistent identity and reachable endpoint for your deployment.
